@@ -1,3 +1,3 @@
 # Assembly CRC Calculator
 
-Sample
+CRC calculator built in Assembly Language built for 32 bit registers.
